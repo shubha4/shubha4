@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubha and I am a Master's student at the University of Washington!
-- 👀 I’m interested in Product Management while also focusing on Data Science by mainly coding in SQL and Python.
+- 👀 I’m interested in Data Science and Engineering, and have been mainly coding in SQL and Python.
 - 🌱 I’m currently learning advanced SQL as well as web development using HTML, CSS and Javascript.
 - 📫 How to reach me: Via [LinkedIn](https://www.linkedin.com/in/shubhat/)!
 
