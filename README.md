@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Shubha and I am a Master's student at the University of Washington!
+- 👋 Hi, I’m Shubha and I am a Master's graduate from the University of Washington!
 - 👀 I’m interested in Data Science and Engineering, and have been mainly coding in SQL and Python.
-- 🌱 I’m currently learning advanced SQL as well as web development using HTML, CSS and Javascript.
+- 🌱 I’m currently advancing my SQL and Python skills by taking the [IBM Data Engineering](https://www.coursera.org/professional-certificates/data-warehouse-engineering) course via Coursera and reading [Python for Data Analysis](https://wesmckinney.com/book/) by Wes McKinney. 
 - 📊 Other Projects: I enjoy data visualization, so feel free to check out my [Tableau Public profile](https://public.tableau.com/app/profile/shubha.tripathi1537#!/) to learn more.
 - 📫 How to reach me: Via [LinkedIn](https://www.linkedin.com/in/shubhat/)!
 
